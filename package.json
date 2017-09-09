@@ -4,6 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
+    "inquirer": "^3.2.3",
     "mysql": "^2.14.1"
   },
   "devDependencies": {},
